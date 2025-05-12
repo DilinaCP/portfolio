@@ -7,7 +7,7 @@ Welcome to my personal developer portfolio! This website showcases my background
 ## 🔗 Live Site
 
 🌐 [Visit Portfolio](portfolio-website-murex-two-74.vercel.app)
-*(Replace with your deployed URL once hosted)*
+
 
 ---
 
