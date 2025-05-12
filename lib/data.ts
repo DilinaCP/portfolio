@@ -52,7 +52,7 @@ export const experiencesData = [
     date: "2024 - present",
   },
   {
-    title: "Started Foundation Program",
+    title: "Foundation Program",
     location: "IIT, Colombo, Sri Lanka",
     description:
       "Successfully completed the foundation program at the Informatics Institute of Technology, building a strong base in computing and problem-solving.",
@@ -76,6 +76,7 @@ export const projectsData = [
     description:
       "A cloud-based healthcare management system designed to streamline interactions between patients, doctors, labs, and pharmacies.",
     tags: ["Next.js", "MongoDB", "Tailwind"],
+    links:"https://github.com/CuraSync",
     imageUrl: curasyncImg,
   },
   {
@@ -83,6 +84,7 @@ export const projectsData = [
     description:
       "A simulation of real-world producer-consumer interactions using a Angular frontend and Spring Boot backend. Included RESTful API development for real-time ticket booking and management.",
     tags: ["Angular", "TypeScript", "Springboot"],
+    links:"https://github.com/DilinaCP/angular-spring-ticketing-system",
     imageUrl: ticketsystem,
   },
   {
@@ -90,6 +92,7 @@ export const projectsData = [
     description:
       "A standalone Java application enabling seat bookings, ticket purchasing, cancellations, and sorted ticket views. Focused on user interaction and core Java programming principles.",
     tags: ["Java"],
+    links:"https://github.com/DilinaCP/RealTime-ticketing-system",
     imageUrl: javaticketsystem,
   },
 ] as const;
