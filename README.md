@@ -99,7 +99,7 @@ Navigate to `http://localhost:3000`
 
 ## 🌐 Deployment
 
-### Deploy on [Vercel](https://vercel.com/)
+### Deploy on [Vercel](https://portfolio-website-murex-two-74.vercel.app/)
 
 1. Push to GitHub
 2. Connect your repo to Vercel
@@ -129,4 +129,4 @@ This portfolio is open-source and available under the MIT License.
 
 Hi, I'm **Dilina Perera** — a passionate Computer Science undergraduate from IIT, Sri Lanka. I love building useful and creative software, collaborating with people, and always learning something new!
 
-Feel free to reach out via the [Contact](#) section or connect with me on [LinkedIn](https://www.linkedin.com/in/dilina-c-perera/).
+Feel free to reach out via the [Contact](dilinacperera@gmail.com) section or connect with me on [LinkedIn](https://www.linkedin.com/in/dilina-c-perera/).
