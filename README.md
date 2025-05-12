@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio! This website showcases my background
 
 ## 🔗 Live Site
 
-🌐 [Visit Portfolio](https://your-portfolio-url.com)
+🌐 [Visit Portfolio](portfolio-website-murex-two-74.vercel.app)
 *(Replace with your deployed URL once hosted)*
 
 ---
@@ -129,4 +129,4 @@ This portfolio is open-source and available under the MIT License.
 
 Hi, I'm **Dilina Perera** — a passionate Computer Science undergraduate from IIT, Sri Lanka. I love building useful and creative software, collaborating with people, and always learning something new!
 
-Feel free to reach out via the [Contact](dilinacperera@gmail.com) section or connect with me on [LinkedIn](https://www.linkedin.com/in/dilina-c-perera/).
+Feel free to reach out via the [Contact](portfolio-website-murex-two-74.vercel.app) section or connect with me on [LinkedIn](https://www.linkedin.com/in/dilina-c-perera/).
