@@ -49,8 +49,6 @@ cd portfolio
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 ### 3. Run the Development Server
@@ -91,10 +89,6 @@ Navigate to `http://localhost:3000`
 ## 🌐 Deployment
 
 ### Deploy on [Vercel](https://portfolio-website-murex-two-74.vercel.app/)
-
-1. Push to GitHub
-2. Connect your repo to Vercel
-3. Deploy directly from your main branch
 
 ---
 
