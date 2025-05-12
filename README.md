@@ -88,15 +88,6 @@ Navigate to `http://localhost:3000`
 
 ---
 
-## ✏️ Customization
-
-* **Text and Data:** Update text in `components/About.tsx`, `Experience.tsx`, `Projects.tsx`, etc.
-* **Add Projects:** Add project details in your `Projects.tsx` or from a shared `data.ts` file.
-* **Icons & Styles:** Use `react-icons` and Tailwind for custom styles.
-* **Theme:** Edit `theme-context.tsx` to change or extend theme logic.
-
----
-
 ## 🌐 Deployment
 
 ### Deploy on [Vercel](https://portfolio-website-murex-two-74.vercel.app/)
@@ -104,18 +95,6 @@ Navigate to `http://localhost:3000`
 1. Push to GitHub
 2. Connect your repo to Vercel
 3. Deploy directly from your main branch
-
----
-
-## 🧑‍💻 Contributing
-
-If you’d like to use or extend this portfolio, feel free to fork the repo. Contributions or suggestions are always welcome!
-
-```bash
-git checkout -b feature/your-feature
-git commit -m "Add feature"
-git push origin feature/your-feature
-```
 
 ---
 
